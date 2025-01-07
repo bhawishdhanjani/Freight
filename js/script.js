@@ -1,5 +1,3 @@
-
-
 (() => {
   var Xte = Object.create;
   var x1 = Object.defineProperty;

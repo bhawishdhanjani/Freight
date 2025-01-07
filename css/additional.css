@@ -1,0 +1,41 @@
+#warehousing {
+  color: white;
+}
+
+.service-custom-content:after {
+  content: "";
+  /* background: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.9));
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.9)); */
+  background-color: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  display: block;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+}
+
+.service-content {
+  color: #edf2f6;
+  mix-blend-mode: normal;
+  max-width: 80%;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.main-logo {
+  width: 75px;
+}
+
+.message-hidden {
+  display: block !important;
+}
+
+.message-visible {
+  display: block !important;
+}
