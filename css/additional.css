@@ -20,14 +20,6 @@
   max-width: 80%;
 }
 
-.navbar {
-  background-color: rgba(0, 0, 0, 0.8);
-  padding: 10px;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-}
 .main-logo {
   width: 75px;
 }
